@@ -19,3 +19,6 @@ Building Systems With The ChatGPT API is beginner-friendly. You only need a basi
 
 ## Link to join
 [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+
+**Disclaimer:**
+This repository contains educational content from DeepLearning.AI, and I do not claim ownership of this material. The primary purpose of this repository is to serve as a learning resource.
